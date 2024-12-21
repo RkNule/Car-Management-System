@@ -91,6 +91,8 @@ http://localhost:8080/swagger-ui.html
 
 ## Screenshots
 
+![Swagger UI Screenshot](https://github.com/RkNule/Car-Management-System/commit/01294f79e2393ece2d2bfc77bcd12001164689e8)
+
 ### Swagger UI
 
 
